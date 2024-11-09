@@ -12,4 +12,5 @@ public class NewClass1 {
     private String ma, ten;
     private int slg;
     private String pa;
+    
 }
